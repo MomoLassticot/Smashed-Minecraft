@@ -1,0 +1,3 @@
+around 10h of work until now...
+
+This version add a few optimization and problem with the conf_block_size function, the major update is the destroy update, you can destroy the block below your cursor simply by pressing right-click. The way i did it will allow me really quickly to add feature that allow me to place any block that i want below my cursor.
